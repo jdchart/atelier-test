@@ -5,5 +5,5 @@ Un repo pour tester git
 
 ## Bonjour
 
-Voci un test.
+Voici un test.
 
